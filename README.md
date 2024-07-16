@@ -1,4 +1,5 @@
-A syntactic features and interactive learning model for aspect-based sentiment analysis accepted by Complex & Intelligent Systems
+A syntactic features and interactive learning model for aspect-based sentiment analysis accepted by Complex & Intelligent Systems (2024)
+
 <img src="AESC/picture/SIASC.png" alt="SIASC model">
 
 # AESC
