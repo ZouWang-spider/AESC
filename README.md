@@ -1,3 +1,6 @@
+A syntactic features and interactive learning model for aspect-based sentiment analysis accepted by Complex & Intelligent Systems
+
+
 # AESC
 The aspect sentiment classification (AESC) task includes aspect terms extraction (AE)  and aspect terms sentiment analysis (ASC).
 
